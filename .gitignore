@@ -1,0 +1,8 @@
+.buckconfig.d
+.buckconfig.local
+.buckd
+buck-out
+ab
+ab.txt
+buckaroo
+buckaroo_macros.bzl

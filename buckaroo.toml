@@ -1,0 +1,4 @@
+[[dependency]]
+package = "github.com/buckaroo-pm/protobuf"
+version = "2.6.1"
+

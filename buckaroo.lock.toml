@@ -1,0 +1,9 @@
+manifest = "5a389c6ce834787740ce8f03bcc74ec39f07a9228f8da6321051c358e7b4f1a5"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/protobuf"
+target = "//:protobuf"
+
+[lock."github.com/buckaroo-pm/protobuf"]
+versions = [ "2.6.1" ]
+revision = "1f61e8c86c286968d6a56486099506fdf7a52fe1"
